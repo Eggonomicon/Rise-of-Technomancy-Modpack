@@ -1,4 +1,4 @@
-#The Rise of Technomancy Modpack
+# The Rise of Technomancy Modpack
 A Repository for the Rise of Technomancy Modpack
 
 Current Supported Version: 1.12.2
